@@ -1,0 +1,46 @@
+{
+  "taxiCars": [
+    {
+      "type":"TAXI_CAR",
+      "model": "Renault Logan",
+      "carCost": 5000,
+      "maxSpeed": 120,
+      "fuelConsumption": 7
+    },
+    {
+      "type":"TAXI_CAR",
+      "model": "Renault Megane",
+      "carCost": 8100,
+      "maxSpeed": 160,
+      "fuelConsumption": 6
+    },
+    {
+      "type":"TAXI_CAR",
+      "model": "Opel Astra",
+      "carCost": 7900,
+      "maxSpeed": 165,
+      "fuelConsumption": 8
+    },
+    {
+      "type":"TAXI_CAR",
+      "model": "Daewoo Lanos",
+      "carCost": 3500,
+      "maxSpeed": 135,
+      "fuelConsumption": 11
+    },
+    {
+      "type":"TAXI_CAR",
+      "model": "Ford Mustang",
+      "carCost": 25500,
+      "maxSpeed": 210,
+      "fuelConsumption": 25
+    },
+    {
+      "type":"TAXI_CAR",
+      "model": "Lamborgini Diablo",
+      "carCost": 155000,
+      "maxSpeed": 310,
+      "fuelConsumption": 35
+    }
+  ]
+}
