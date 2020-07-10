@@ -1,0 +1,233 @@
+{
+  "name": "KPI",
+  "faculties": [
+    {
+      "name": "ELECTRONICS",
+      "subjects": [
+        {
+          "subjectName": "Physics"
+        },
+        {
+          "subjectName": "Acoustics"
+        },
+        {
+          "subjectName": "Radiotechnics"
+        },
+        {
+          "subjectName": "Microelectronics"
+        }
+      ],
+      "groups": [
+        {
+          "name": "EL-11",
+          "studentList": [
+            {
+              "fullName": "Charlton Peck",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Acoustics\u0027}": 8,
+                "Subject{subjectName\u003d\u0027Physics\u0027}": 9
+              }
+            },
+            {
+              "fullName": "Codie Marks",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Radiotechnics\u0027}": 10,
+                "Subject{subjectName\u003d\u0027Microelectronics\u0027}": 10
+              }
+            }
+          ]
+        },
+        {
+          "name": "EL-12",
+          "studentList": [
+            {
+              "fullName": "Emilis Leonard",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Microelectronics\u0027}": 11,
+                "Subject{subjectName\u003d\u0027Physics\u0027}": 7
+              }
+            },
+            {
+              "fullName": "Natasha Naylor",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Acoustics\u0027}": 9,
+                "Subject{subjectName\u003d\u0027Radiotechnics\u0027}": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INFORMATICS",
+      "subjects": [
+        {
+          "subjectName": "Java"
+        },
+        {
+          "subjectName": "Assembler"
+        },
+        {
+          "subjectName": "JavaScript"
+        },
+        {
+          "subjectName": "HTML"
+        }
+      ],
+      "groups": [
+        {
+          "name": "IN-31",
+          "studentList": [
+            {
+              "fullName": "Sheena Goulding",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Java\u0027}": 10,
+                "Subject{subjectName\u003d\u0027Assembler\u0027}": 6
+              }
+            },
+            {
+              "fullName": "Aniqa Serrano",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027JavaScript\u0027}": 8,
+                "Subject{subjectName\u003d\u0027HTML\u0027}": 7
+              }
+            }
+          ]
+        },
+        {
+          "name": "IN-32",
+          "studentList": [
+            {
+              "fullName": "Nikki Bannister",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027HTML\u0027}": 10,
+                "Subject{subjectName\u003d\u0027Java\u0027}": 5
+              }
+            },
+            {
+              "fullName": "Mercedes Robin",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Assembler\u0027}": 11,
+                "Subject{subjectName\u003d\u0027Java\u0027}": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHEMISTRY",
+      "subjects": [
+        {
+          "subjectName": "Organics"
+        },
+        {
+          "subjectName": "Not organics"
+        },
+        {
+          "subjectName": "Biochemistry"
+        },
+        {
+          "subjectName": "Reactions"
+        }
+      ],
+      "groups": [
+        {
+          "name": "CH-61",
+          "studentList": [
+            {
+              "fullName": "Nabeel Robinson",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Organics\u0027}": 10,
+                "Subject{subjectName\u003d\u0027Not organics\u0027}": 9
+              }
+            },
+            {
+              "fullName": "Archie Iles",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Biochemistry\u0027}": 12,
+                "Subject{subjectName\u003d\u0027Reactions\u0027}": 11
+              }
+            }
+          ]
+        },
+        {
+          "name": "CH-62",
+          "studentList": [
+            {
+              "fullName": "Catrin Mcleod",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Biochemistry\u0027}": 8,
+                "Subject{subjectName\u003d\u0027Organics\u0027}": 7
+              }
+            },
+            {
+              "fullName": "Subhan Mosley",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Not organics\u0027}": 6,
+                "Subject{subjectName\u003d\u0027Reactions\u0027}": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ECONOMICS",
+      "subjects": [
+        {
+          "subjectName": "Microeconomics"
+        },
+        {
+          "subjectName": "Macroeconomics"
+        },
+        {
+          "subjectName": "Public relations"
+        },
+        {
+          "subjectName": "Money theory"
+        }
+      ],
+      "groups": [
+        {
+          "name": "EC-01",
+          "studentList": [
+            {
+              "fullName": "Kohen Morris",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Microeconomics\u0027}": 8,
+                "Subject{subjectName\u003d\u0027Macroeconomics\u0027}": 8
+              }
+            },
+            {
+              "fullName": "Steve Thorne",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Money theory\u0027}": 9,
+                "Subject{subjectName\u003d\u0027Public relations\u0027}": 11
+              }
+            }
+          ]
+        },
+        {
+          "name": "EC-02",
+          "studentList": [
+            {
+              "fullName": "Makenzie Barrett",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Money theory\u0027}": 6,
+                "Subject{subjectName\u003d\u0027Microeconomics\u0027}": 4
+              }
+            },
+            {
+              "fullName": "Dulcie Powers",
+              "studentSubjectsWithMarks": {
+                "Subject{subjectName\u003d\u0027Public relations\u0027}": 12,
+                "Subject{subjectName\u003d\u0027Macroeconomics\u0027}": 6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
